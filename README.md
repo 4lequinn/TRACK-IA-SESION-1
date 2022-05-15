@@ -9,9 +9,10 @@ _Líderes de Track_
 - Jorge Quintui
 
 # Vídeo de la clase
-https://www.youtube.com/watch?v=fLOBGR91FZU
+https://youtu.be/Gbqz84HvtSM
 
 # Canal de YT
 https://www.youtube.com/channel/UC35NEpHKNWmk0FoIQw2NkqA
 
-![aaa](https://user-images.githubusercontent.com/66024934/167263974-0c47be46-a488-4318-a44a-3202b469cf9b.jpg)
+
+![git](https://user-images.githubusercontent.com/66024934/168454107-3c242c54-a32b-4e88-83d2-19c340169e06.jpg)
